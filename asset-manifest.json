@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/IFTA-Hosting/static/css/main.c5375978.chunk.css",
-    "main.js": "/IFTA-Hosting/static/js/main.2a977614.chunk.js",
-    "main.js.map": "/IFTA-Hosting/static/js/main.2a977614.chunk.js.map",
+    "main.css": "/IFTA-Hosting/static/css/main.2c74c050.chunk.css",
+    "main.js": "/IFTA-Hosting/static/js/main.698d6cd3.chunk.js",
+    "main.js.map": "/IFTA-Hosting/static/js/main.698d6cd3.chunk.js.map",
     "runtime-main.js": "/IFTA-Hosting/static/js/runtime-main.dd3f28a3.js",
     "runtime-main.js.map": "/IFTA-Hosting/static/js/runtime-main.dd3f28a3.js.map",
     "static/css/2.3fb00143.chunk.css": "/IFTA-Hosting/static/css/2.3fb00143.chunk.css",
@@ -12,7 +12,7 @@
     "static/js/3.2b1d737e.chunk.js.map": "/IFTA-Hosting/static/js/3.2b1d737e.chunk.js.map",
     "index.html": "/IFTA-Hosting/index.html",
     "static/css/2.3fb00143.chunk.css.map": "/IFTA-Hosting/static/css/2.3fb00143.chunk.css.map",
-    "static/css/main.c5375978.chunk.css.map": "/IFTA-Hosting/static/css/main.c5375978.chunk.css.map",
+    "static/css/main.2c74c050.chunk.css.map": "/IFTA-Hosting/static/css/main.2c74c050.chunk.css.map",
     "static/js/2.101e965c.chunk.js.LICENSE.txt": "/IFTA-Hosting/static/js/2.101e965c.chunk.js.LICENSE.txt",
     "static/media/Ifta_Trophy.17635ad5.png": "/IFTA-Hosting/static/media/Ifta_Trophy.17635ad5.png",
     "static/media/Scam 1992 The Harshad Mehta Story.jpg": "/IFTA-Hosting/static/media/Scam 1992 The Harshad Mehta Story.92a03c7f.jpg",
@@ -146,7 +146,7 @@
     "static/js/runtime-main.dd3f28a3.js",
     "static/css/2.3fb00143.chunk.css",
     "static/js/2.101e965c.chunk.js",
-    "static/css/main.c5375978.chunk.css",
-    "static/js/main.2a977614.chunk.js"
+    "static/css/main.2c74c050.chunk.css",
+    "static/js/main.698d6cd3.chunk.js"
   ]
 }
