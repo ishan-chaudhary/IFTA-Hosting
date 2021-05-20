@@ -1,0 +1,2 @@
+(this["webpackJsonppolbol-v2"]=this["webpackJsonppolbol-v2"]||[]).push([[11],{287:function(e,t,l){"use strict";l.r(t);var a=l(4),o=l(1);l(0);t.default=function(e){var t=e.match;return Object(o.jsx)("div",{style:{height:"100vh"},children:Object(o.jsx)("iframe",Object(a.a)({src:"https://www.youtube.com/embed/".concat(t.params.ytlink,"?autoplay=1&fullscreen=1&mute=0"),frameBorder:"0",allow:"autoplay; encrypted-media; fullscreen",style:{height:"100%",width:"100%"},allowFullScreen:!0,title:"video"},"allow","autoplay"))})}}}]);
+//# sourceMappingURL=11.42f632d4.chunk.js.map
